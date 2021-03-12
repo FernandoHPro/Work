@@ -7,9 +7,5 @@ Tteste 2
 
 REalizando o teste  do Git
 
-testes 2
-
-
-te
-te
-te
+testes 3
+ola
